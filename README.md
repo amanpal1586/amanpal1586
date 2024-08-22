@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @amanpal1586
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta __amanpal
+- 📫 How to reach me instagram amanpal_1586
+- 🧳 How to reach me Linkdin [amanpal](https://www.linkedin.com/in/amanpal1586/)
 - 😄 Pronouns: Aaaaman
 
 
