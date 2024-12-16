@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amanpal1586
+- 👋 Hi, I’m Aman Pal 
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning.....
 - 📫 How to reach me instagram amanpal_1586
 - 🧳 How to reach me Linkdin [amanpal](https://www.linkedin.com/in/amanpal1586/)
   
