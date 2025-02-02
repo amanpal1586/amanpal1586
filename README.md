@@ -1,9 +1,31 @@
-- 👋 Hi, I’m Aman Pal 
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning.....
-- 📫 How to reach me instagram amanpal_1586
-- 🧳 How to reach me Linkdin [amanpal](https://www.linkedin.com/in/amanpal1586/)
-  
+# Hi there, I'm Aman Pal 👋
+
+🎓 **B.Tech in Mathematics and Computing**  
+📊 **Quantitative Enthusiast | 🤖 Machine Learning Learner | ⚡ Competitive Programmer**
+
+Welcome to my GitHub! I'm passionate about solving complex problems with data-driven approaches, exploring the world of quantitative finance, and building efficient algorithms through competitive programming.
+
+## 🚀 **What I’m Currently Working On:**
+- **Machine Learning:** Exploring models, algorithms, and real-world applications.
+- **Competitive Programming:** Sharpening problem-solving skills on platforms like Codeforces, LeetCode, and CodeChef.
+- **Open Source Contributions:** Actively contributing to projects to enhance my coding skills and collaborate with the tech community.
+
+## 🛠️ **Tech Stack:**
+- **Languages:** C, C++, Python, Javascript 
+- **Tools & Frameworks:** STL, Git, NumPy, CLI
+- **Areas of Interest:**  Data Analytics, Data Structures & Algorithms, Optimization and Mathematics.  
+
+## 📈 **Current Goals:**
+- Master advanced ML techniques and quantitative finance concepts.
+- Contribute to impactful open-source projects.
+- Build efficient, real-world software applications.
+
+## 📫 **Connect with Me:**
+- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/amanpal1586/)
+- **GitHub:** [github.com/yourusername](https://github.com/amanpal1586)
+
+Let’s collaborate and create something amazing together! 🚀
+
 
 
 <!---
