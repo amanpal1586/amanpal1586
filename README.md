@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm passionate about solving complex problems with data-dr
 - Build efficient, real-world software applications.
 
 ## 📫 **Connect with Me:**
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/amanpal1586/)
+- **LinkedIn:** (https://www.linkedin.com/in/amanpal1586/)
 - **GitHub:** [github.com/yourusername](https://github.com/amanpal1586)
 
 Let’s collaborate and create something amazing together! 🚀
