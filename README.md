@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm passionate about solving complex problems with data-dr
 
 ## 🛠️ **Tech Stack:**
 - **Languages:** C, C++, Python, Javascript 
-- **Tools & Frameworks:** STL, Git, NumPy, CLI
-- **Areas of Interest:**  Data Analytics, Data Structures & Algorithms, Optimization and Mathematics.  
+- **Tools & Frameworks:** STL, Git, NumPy
+- **Areas of Interest:**  Optimization, Mathematics, Data Analytics, Data Structures & Algorithms.  
 
 ## 📈 **Current Goals:**
 - Master advanced ML techniques and quantitative finance concepts.
