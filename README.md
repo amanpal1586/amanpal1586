@@ -6,14 +6,14 @@
 Welcome to my GitHub! I'm passionate about solving complex problems with data-driven approaches, exploring the world of quantitative finance, and building efficient algorithms through competitive programming.
 
 ## 🚀 **What I’m Currently Working On:**
-- **Machine Learning:** Exploring models, algorithms, and real-world applications.
 - **Competitive Programming:** Sharpening problem-solving skills on platforms like Codeforces, LeetCode, and CodeChef.
-- **Open Source Contributions:** Actively contributing to projects to enhance my coding skills and collaborate with the tech community.
+- I am Pupil(1290) on codeforces.
 
 ## 🛠️ **Tech Stack:**
 - **Languages:** C, C++, Python, Javascript 
 - **Tools & Frameworks:** STL, Git, NumPy
-- **Areas of Interest:**  Optimization, Mathematics, Data Analytics, Data Structures & Algorithms.  
+- **Areas of Interest:**  Optimization, Finance, Design of Algorithm, Number Theory.
+- **Course Works:** Data Structure, Algorithm, Object Oriented Methodogies, Database Management, Oprating System
 
 ## 📈 **Current Goals:**
 - Master advanced ML techniques and quantitative finance concepts.
