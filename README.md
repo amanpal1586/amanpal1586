@@ -1,7 +1,7 @@
 # Hi there, I'm Aman Pal 👋
 
 🎓 **B.Tech in Mathematics and Computing**  
-📊 **Quantitative Enthusiast | 🤖 Machine Learning Learner | ⚡ Competitive Programmer**
+📊 **Finance Engineering | 🤖 Machine Learning Learner | ⚡ Competitive Programmer**
 
 Welcome to my GitHub! I'm passionate about solving complex problems with data-driven approaches, exploring the world of quantitative finance, and building efficient algorithms through competitive programming.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about solving complex problems with data-dr
 - I am Pupil(1290) on codeforces.
 
 ## 🛠️ **Tech Stack:**
-- **Languages:** C, C++, Python, Javascript 
+- **Languages:** C, C++, Python, 
 - **Tools & Frameworks:** STL, Git, NumPy
 - **Areas of Interest:**  Optimization, Finance, Design of Algorithm, Number Theory.
 - **Course Works:** Data Structure, Algorithm, Object Oriented Methodogies, Database Management, Oprating System
