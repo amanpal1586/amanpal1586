@@ -1,34 +1,28 @@
-# Hi there, I'm Aman Pal 👋
+👋 Hi, I'm
 
-🎓 **B.Tech in Mathematics and Computing**  
-📊 **Finance Engineering | 🤖 Machine Learning Learner | ⚡ Competitive Programmer**
+# Aman Pal
+B.Tech Mathematics & Computing · 2nd Year
 
-Welcome to my GitHub! I'm passionate about solving complex problems with data-driven approaches, exploring the world of quantitative finance, and building efficient algorithms through competitive programming.
+---
 
-## 🚀 **What I’m Currently Working On:**
-- **Competitive Programming:** Sharpening problem-solving skills on platforms like Codeforces, LeetCode, and CodeChef.
-- I am Pupil(1290) on codeforces.
+## About
+Undergraduate student with a strong foundation in applied mathematics, statistical computing, and quantitative methods. Interested in the intersection of mathematics and real-world problem solving.
 
-## 🛠️ **Tech Stack:**
-- **Languages:** C, C++, Python, 
-- **Tools & Frameworks:** STL, Git, NumPy
-- **Areas of Interest:**  Optimization, Finance, Design of Algorithm, Number Theory.
-- **Course Works:** Data Structure, Algorithm, Object Oriented Methodogies, Database Management, Oprating System
+## Technical skills
 
-## 📈 **Current Goals:**
-- Master advanced ML techniques and quantitative finance concepts.
-- Contribute to impactful open-source projects.
-- Build efficient, real-world software applications.
+**Languages**
+`C/C++` `Python` `MATLAB` `R` `MySQL`
 
-## 📫 **Connect with Me:**
-- **LinkedIn:** (https://www.linkedin.com/in/amanpal1586/)
-- **GitHub:** [github.com/yourusername](https://github.com/amanpal1586)
+**Quant / ML libraries**
+`NumPy` `Pandas` `SciPy` `Scikit-learn` `Matplotlib` `QuantLib`
 
-Let’s collaborate and create something amazing together! 🚀
+**Mathematics**
+`Probability & Statistics` `Stochastic Processes` `Monte Carlo Methods`
+`Linear Algebra` `Numerical Methods` `Optimization` `Number Theory`
 
+**Tools**
+`Git` `Linux` `LaTeX` `Jupyter Notebook`
 
+---
 
-<!---
-amanpal1586/amanpal1586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Projects here are shared for reference — feel free to explore.*
